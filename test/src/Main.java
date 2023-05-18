@@ -26,4 +26,8 @@ public class Main {
     void test5() {
         // 계획 어떻게 세우지 - 무계획형 인간
     }
+    
+    void test6() {
+        // 곤란하고 피곤하지만 오늘 새벽도 화이팅 🫥
+    }
 }
