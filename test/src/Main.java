@@ -10,4 +10,8 @@ public class Main {
     void test1() {
         // feature 1 분기 탔다가 합치기 도전
     }
+
+    void test2() {
+        // commit message 깔끔하게 보여졌으면 좋겠다 😠
+    }
 }
