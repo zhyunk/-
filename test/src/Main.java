@@ -14,4 +14,8 @@ public class Main {
     void test2() {
         // commit message 깔끔하게 보여졌으면 좋겠다 😠
     }
+     
+    void test3() {
+        // 두번은 정 없다고 하던디
+    }
 }
