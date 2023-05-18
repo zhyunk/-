@@ -18,4 +18,8 @@ public class Main {
     void test3() {
         // 두번은 정 없다고 하던디
     }
+
+    void test4() {
+        // 잠시 길을 잃었었다;;
+    }
 }
