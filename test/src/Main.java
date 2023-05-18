@@ -22,4 +22,8 @@ public class Main {
     void test4() {
         // 잠시 길을 잃었었다;;
     }
+
+    void test5() {
+        // 계획 어떻게 세우지 - 무계획형 인간
+    }
 }
