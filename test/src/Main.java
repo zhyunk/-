@@ -3,6 +3,9 @@ public class Main {
         System.out.println("가나다라마바상ㅈㅊㅋㅌㅍㅎ");
     }
 
+    void testt3() {
+        // git cherry pick 테스트!
+    }
     void test() {
         System.out.println("asdjlaskdjlk");
     }
