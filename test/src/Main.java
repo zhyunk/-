@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("feature test 1 다녀갑니다");
+        System.out.println("test 2 다녀갑니다");
 
         System.out.println("feature test 1 add 2");
     }
