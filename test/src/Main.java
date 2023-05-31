@@ -1,8 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("가나다라마바상ㅈㅊㅋㅌㅍㅎ");
+        System.out.println("feature test 1 다녀갑니다");
+        System.out.println("test 2 다녀갑니다");
+
+        System.out.println("feature test 1 add 2");
     }
 
+    void testt3() {
+        // git cherry pick 테스트!
+    }
     void test() {
         System.out.println("asdjlaskdjlk");
     }
