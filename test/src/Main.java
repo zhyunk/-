@@ -6,6 +6,9 @@ public class Main {
         System.out.println("feature test 1 add 2");
     }
 
+    void testt3() {
+        // git cherry pick 테스트!
+    }
     void test() {
         System.out.println("asdjlaskdjlk");
     }
