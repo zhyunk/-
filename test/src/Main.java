@@ -6,6 +6,11 @@ public class Main {
     void testt3() {
         // git cherry pick 테스트!
     }
+
+    void testt31() {
+        // get cherry pick 테스트~~~
+    }
+    
     void test() {
         System.out.println("asdjlaskdjlk");
     }
