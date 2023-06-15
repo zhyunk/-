@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>zhyun 🐵</title>
+    <style>
+        * {
+            background: #000;
+            color: #e6e6e6;
+            text-align: center;
+        }
+        h1 {
+            padding-top: 2em;
+            font-size: 5em;
+        }
+    </style>
+    <script>
+        window.onload = function() {
+            clock();
+            setInterval(clock, 1000);
+        }
+
+        function clock(){
+            let h2 = document.querySelector('h2');
+            let today = new Date();
+            let H = today.getHours();
+            let M = today.getMinutes();
+            let S = today.getSeconds();
+
+            h2.innerHTML = H + ":" + M + ":" + S;
+        }
+    </script>
+</head>
+<body>
+    <h1>🚧</h1>
+    <h2></h2>
+</body>
+</html>
